@@ -1,0 +1,20 @@
+<Alloy>
+	<TabGroup>
+		<Tab title="Tab 1" icon="KS_nav_ui.png">
+			<Window title="Tab 4">
+				<Label top="20" left="10" >デートかいすう</Label>
+				<TextField id="textDateCount" editable="0" top="20" left="120" width="180" height="30" textAlign="right"/>
+			</Window>
+		</Tab>
+		<Tab title="Tab 2" icon="KS_nav_views.png">
+			<Window title="Tab 2">
+				<Label>I am Window 2</Label>
+			</Window>
+		</Tab>
+		<Tab title="Tab 3" >
+			<Window title="Tab 3">
+				<Label>I am Window 3</Label>
+			</Window>
+		</Tab>
+	</TabGroup>
+</Alloy>
